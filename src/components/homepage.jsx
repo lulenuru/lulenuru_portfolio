@@ -46,19 +46,19 @@ export const Home = () => {
               <div className="flex items-center justify-center lg:justify-start gap-3">
                 <div className="h-1 w-12 bg-gradient-to-r from-blue-500 to-indigo-500 rounded"></div>
                 <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-400">
-                  Frontend Developer
+                  Frontend Developer / Data Analyst
                 </h2>
               </div>
             </div>
 
             {/* Subtitle */}
             <p className="text-xl text-gray-400">
-              React Enthusiast | UI/UX Passionate
+              React Enthusiast | UI/UX Passionate | Data-Driven | Project Management
             </p>
             
             {/* Description */}
             <p className="text-lg text-gray-500 leading-relaxed">
-              I build beautiful, responsive, and user-friendly web applications using modern technologies. Transforming ideas into elegant digital experiences.
+              I build beautiful, responsive, and user-friendly mobile and web applications using modern technologies. Transforming ideas and data into elegant digital experiences.
             </p>
 
             {/* Tech Stack */}
@@ -142,7 +142,7 @@ export const Home = () => {
                 <div className="relative w-72 h-72 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl backdrop-blur-sm">
                   <img
                     src={nuruprofpic}
-                    alt="Lule Nuru - Frontend Developer"
+                    alt="Lule Nuru - Frontend Developer / Data Analyst"
                     className={`w-full h-full object-cover transition-all duration-700 ${imageLoaded ? 'scale-100 opacity-100' : 'scale-110 opacity-0'}`}
                     onLoad={() => setImageLoaded(true)}
                   />

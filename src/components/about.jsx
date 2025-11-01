@@ -10,13 +10,13 @@ export const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-700 leading-relaxed">
-              I'm a passionate frontend developer with a love for creating elegant and efficient web applications. With expertise in React, Tailwind CSS, and modern JavaScript, I transform ideas into reality.
+              I'm a Frontend Developer and Data Analyst passionate about creating engaging, efficient, and data-informed digital experiences. I specialize in building mobile applications with React Native and web applications with React, focusing on clean design, smooth performance, and intuitive user interfaces.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              My journey in web development started with a curiosity about how websites work, and it has grown into a full-fledged career. I constantly learn new technologies and best practices to stay ahead in this ever-evolving field.
+              While frontend is my core strength, I also work with Python and Django REST Framework to build and integrate supportive backends that power dynamic and scalable applications. My experience in data analysis — using tools like Python, SQL, and Excel — allows me to bring an analytical perspective to development, turning data into insights that drive smarter design and functionality.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              When I'm not coding, you can find me exploring new design trends, contributing to open-source projects, or sharing knowledge with the developer community.
+              I’m constantly exploring new technologies, UI/UX trends, and project management principles to strengthen my ability to lead and deliver successful projects from concept to deployment. When I’m not coding or analyzing data, I enjoy contributing to open-source projects and sharing knowledge with the developer community.
             </p>
           </div>
           <div className="bg-gradient-to-br from-blue-100 to-indigo-100 p-8 rounded-lg">
